@@ -3,14 +3,18 @@ The client would like to create an app for the user to find a dog groomer with t
 Business Requirements | Nouns | Verbs
 Business logic Users should known when groomers are available
 
-*Fine-tuned scheduling by understanding trends in the cleanliness of the users' dog community
+**Fine-tuned** scheduling by understanding trends in the cleanliness of the users' dog community
 
-*Users*: bio, profile pic
+**Users**: bio, profile pic
 
-*Features* -  Posting , Commenting on photos
+**Features** -  Posting , Commenting on photos
 
-*Groomer suggestion* is based on the probability distribution of dirty dogs at any given time during the week
+**Groomer suggestion **
 
-*Groomers* can see analytics and choose to stay open during the predicted most busy days of the week
+is based on the probability distribution of dirty dogs at any given time during the week
 
-*Target Audience* - dog owners, who are social and want to know when they can wash their pet without having too much idle time. Their dog may get upset during the wait. (age range: 25-50)
+**Groomers** can see analytics and choose to stay open during the predicted most busy days of the week
+
+**Target Audience **
+
+dog owners, who are social and want to know when they can wash their pet without having too much idle time. Their dog may get upset during the wait. (age range: 25-50)
