@@ -7,7 +7,7 @@ Business logic Users should known when groomers are available
 
 **Users**: bio, profile pic
 
-**Features** -  Posting , Commenting on photos
+**Features**  Posting , Commenting on photos
 
 **Groomer suggestion **
 
