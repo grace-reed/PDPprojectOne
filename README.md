@@ -9,12 +9,12 @@ Business logic Users should known when groomers are available
 
 **Features**  Posting , Commenting on photos
 
-**Groomer suggestion **
+**Groomer suggestion**
 
 is based on the probability distribution of dirty dogs at any given time during the week
 
 **Groomers** can see analytics and choose to stay open during the predicted most busy days of the week
 
-**Target Audience **
+**Target Audience**
 
 dog owners, who are social and want to know when they can wash their pet without having too much idle time. Their dog may get upset during the wait. (age range: 25-50)
